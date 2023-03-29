@@ -1,0 +1,84 @@
+46                        
+L-----------  WORLD  TIME3
+dPACIFIC      04:00 = TZ 3
+dMOUNTIAN     05:00 = TZ 3
+dCENTRAL      06:00 = TZ 3
+dEASTERN      07:00 = TZ 3
+dLONDON       12:00 = TZ 3
+dBERLIN       13:00 = TZ 3
+dMOSCOW       15:00 = TZ 3
+dPEKING       20:00 = TZ 3
+dULAN BATOR   20:00 = TZ 3
+dTOKYO        21:00 = TZ 3
+dTAHITI       02:00 = TZ 3
+LWEEKLY      -- ALARM ---2
+dTV-60 MINITS0 SUN P06:302
+dCALL BROKER 1 MON P01:202
+dCALL BROKER 2 TUE P01:202
+dCALL BROKER 3 WED P01:202
+dCALL BROKER 4 THU P01:202
+dCALL BROKER 5 FRI P01:202
+dCALL BROKER 6 SAT P01:202
+LSCHEDULE    -- ALARM ---1
+dANNIV TOMORO05/01 P01:001
+dTAX APPT    02/06 A11:151
+L----------  PHONE NUMBRS0
+dPAT M       937-8319    0
+dBILL R      876-7760    0
+dWENDY       781-7071    0
+dBRUCE       888-5942    0
+dBRUCE BRATZ 843-4015    0
+dSIMMONS     747-0389    0
+dCHARLIE     955-7884    0
+dLB-AIRPORT  219-337-53440
+dLB-HOME     219-297-22880
+dPAUL KURTZ  989-6297    0
+dSCOT & DALE 676-1408    0
+dJIM FARBISH 421-8044    0
+dBOB - WORK  899-2666    0
+dBOB - HOME  988-8380    0
+dRICHARD D.  897-560-37000
+dSEIKO       213-640-87020
+dBILL A      467-6818    0
+dSR ELECT    213-966-59260
+dSNTA ATA    818-453-44410
+dONTRIO MKT  444-221     0
+dM&I PETER   357-3158    0
+d--------------- END --- 0
+d--------------- END --- 0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+d - - - - -              0
+4                         
+
+
